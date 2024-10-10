@@ -1,7 +1,7 @@
 # Dublin Airbnb Data Analysis Dashboard
 
 This repository contains a Tableau dashboard project that visualizes and analyzes Airbnb listings data for Dublin. The project aims to provide insights into Airbnb property trends, including geographic distribution, pricing, reviews, and revenue generation over time. The data is sourced from [Inside Airbnb](http://insideairbnb.com/get-the-data.html), a website that compiles publicly available data on Airbnb listings across various cities.
-
+![Dublin Airbnb Dashboard](Airbnb_Dashboard.png)
 ## Data Source
 
 The dataset used in this analysis was downloaded from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). This dataset contains detailed information about Airbnb listings in Dublin, including fields such as:
